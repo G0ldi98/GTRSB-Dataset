@@ -7,7 +7,7 @@ Die Daten stammen von dem GTSRB - German Traffic Sign Recognition Benchmark Date
 
 ## 100%
 Beinhaltet alle Verkehrszeichen, diese sind:
-![](/100%/Meta/0.png)
+![](./100%/Meta/0.png)
 !(100%/Meta/1.png)
 !(100%/Meta/2.png)
 !(100%/Meta/3.png)
