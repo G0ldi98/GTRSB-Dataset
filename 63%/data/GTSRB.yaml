@@ -1,0 +1,14 @@
+train: ../images/train/
+val: ../images/val
+test: ../images/test/
+
+# number of classes
+nc: 27
+
+#class names
+
+names: [ 'Speed limit (20km/h)','Speed limit (30km/h)','Speed limit (50km/h)','Speed limit (60km/h)','Speed limit (70km/h)',
+          'Speed limit (80km/h)','Speed limit (100km/h)','Speed limit (120km/h)','Right-of-way at intersection','Priority road',
+          'Yield','Stop','No vehicles','No entry','Road work','Traffic signals','Pedestrians','Bicycles crossing','End speed + passing limits',
+          'Turn right ahead','Turn left ahead','Ahead only','Go straight or right','Go straight or left','Keep right','Keep left','Roundabout mandatory',
+        ]
